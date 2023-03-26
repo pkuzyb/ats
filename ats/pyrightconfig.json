@@ -1,0 +1,13 @@
+{
+  "include": [
+      "ats",
+      "utils",
+      "**/local"
+  ],
+  "exclude": [
+      "**/__pycache__",
+      ".git"
+  ],
+  // "venvPath": "",
+  // "venv": ""
+}
